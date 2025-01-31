@@ -4,11 +4,11 @@ Este é um projeto de conversor de unidades entre o sistema imperial e o sistema
 
 ## 📌 Funcionalidades
 
-✅ Conversão entre diversas unidades de medida
-✅ Identifica entradas válidas e inválidas
-✅ Responde com JSON contendo os valores convertidos
-✅ API desenvolvida com Express.js
-✅ Testes unitários e funcionais com Mocha e Chai
+- ✅ Conversão entre diversas unidades de medida
+- ✅ Identifica entradas válidas e inválidas
+- ✅ Responde com JSON contendo os valores convertidos
+- ✅ API desenvolvida com Express.js
+- ✅ Testes unitários e funcionais com Mocha e Chai
 
 ## 🚀 Tecnologias Utilizadas
 
